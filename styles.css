@@ -1756,7 +1756,7 @@ form {
 @media (max-width: 600px) {
 
   .holder {
-    width: 90%;
+    width: 95%;
     margin: 10px;
     border-radius: 20px;
     padding: 15px;
@@ -2108,3 +2108,4 @@ form {
     width: 90%;
   }
 }
+
