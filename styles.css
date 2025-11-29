@@ -1787,7 +1787,7 @@ form {
 }
 @media (max-width: 480px){
 .holder {
-    width: 95%;
+    width: 109%;
     margin: 0 auto;
     border-radius: 20px;
     padding: 15px;
@@ -1807,7 +1807,7 @@ form {
     margin-right: 8px;
    }
   .submit {
-    height: 45px;
+    height: 40px;
     font-size: 15px;
     align-items: center;
     justify-content: center;
@@ -2140,6 +2140,7 @@ form {
     width: 90%;
   }
 }
+
 
 
 
